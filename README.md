@@ -6,6 +6,11 @@ Mesh to Hair Generator
 https://docs.google.com/document/d/1r5VBZ0fsACgkfDzaMOe3No1-Vr6eTOwqbpKIuY9Kpcg/edit?usp=sharing
 
 ## Milestone 1: Implementation part 1 (due 11/13)
+  Jill:
+    Goal: Creating a Mesh to Hair generator in Houdini. Utilizing Meshes from Unreal Engine's Digital Human, as well as a custom mesh to test for generality, I utilized several resources and tutorials online to create a system that when inputting an fbx mesh generates guide curves, and from those guide curves generates hair splines that can be rendered like real hair! One important fact to note is that it is necessary for the mesh to be rather high in polygon/vertex count because the more edges, the more curves will be generated, and the more polished the hair will look in the final result.
+
+
+    
 Begin implementing your engine! Don't worry too much about polish or parameter tuning -- this week is about getting together the bulk of your generator implemented. By the end of the week, even if your visuals are crude, the majority of your generator's functionality should be done.
 
 Put all your code in your forked repository.
