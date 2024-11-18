@@ -20,6 +20,8 @@ https://docs.google.com/document/d/1r5VBZ0fsACgkfDzaMOe3No1-Vr6eTOwqbpKIuY9Kpcg/
 
 ![Screenshot 2024-11-13 134913](https://github.com/user-attachments/assets/d7f8c94f-7990-4d8d-9c7f-1851f9ca4a96)
 
+Clara: Documentation and description here: https://docs.google.com/document/d/1C57lQaYFIFPOGSd862Vk_UuKPzDx82gH-poj0TLbuiA/edit?usp=sharing
+
 
 ## Milestone 2: Implementation part 2 (due 11/25)
 We're over halfway there! This week should be about fixing bugs and extending the core of your generator. Make sure by the end of this week _your generator works and is feature complete._ Any core engine features that don't make it in this week should be cut! Don't worry if you haven't managed to exactly hit your goals. We're more interested in seeing proof of your development effort than knowing your planned everything perfectly. 
