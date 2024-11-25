@@ -35,6 +35,8 @@ We'll check your repository for updates. No need to create a new pull request.
 
 Come to class on the due date with a WORKING COPY of your project. We'll be spending time in class critiquing and reviewing your work so far.
 
+Link to presentation: https://docs.google.com/presentation/d/1LpllukBR21gXvDsFZ9iFhl2O3g5xpQ6qLk-FhuubAMI/edit#slide=id.p
+
 ## Final submission (due 12/2)
 Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
 
