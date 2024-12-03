@@ -42,11 +42,4 @@ Left To Do:
 - Create bust heads in zBrush and export curled hair pieces to then make textured renders with dynamic lighting.
   
 ## Final submission (due 12/2)
-Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
-
-Submission:
-- Push all your code / files to your repository
-- Come to class ready to present your finished project
-- Update your README with two sections 
-  - final results with images and a live demo if possible
-  - post mortem: how did your project go overall? Did you accomplish your goals? Did you have to pivot?
+Final Presentation: https://docs.google.com/presentation/d/1LpllukBR21gXvDsFZ9iFhl2O3g5xpQ6qLk-FhuubAMI/edit#slide=id.g31bcaf3c6d7_0_59
