@@ -24,17 +24,23 @@ Clara: Documentation and description here: https://docs.google.com/document/d/1C
 
 
 ## Milestone 2: Implementation part 2 (due 11/25)
-We're over halfway there! This week should be about fixing bugs and extending the core of your generator. Make sure by the end of this week _your generator works and is feature complete._ Any core engine features that don't make it in this week should be cut! Don't worry if you haven't managed to exactly hit your goals. We're more interested in seeing proof of your development effort than knowing your planned everything perfectly. 
+Class Critique (11/25) Feedback:
+Lighting and Material Physically Based: probably requires exporting into another system.
+Making Busts for Renders
 
-Put all your code in your forked repository.
+Progress Made: Combined both parts to make generalized mesh to hair tool that can be modified to three different hair types: wavy, loose curls, and tight loc curls.
 
-Submission: Add a new section to your README titled: Milestone #3, which should include
-- written description of progress on your project goals. If you haven't hit all your goals, what did you have to cut and why? 
-- Detailed output from your generator, images, video, etc.
-We'll check your repository for updates. No need to create a new pull request.
+![wavybrownbun](https://github.com/user-attachments/assets/8735f3f8-2373-4684-b846-d18c36646a2c)
+![wavyblondepony](https://github.com/user-attachments/assets/4649109c-20ae-45cd-9ece-7ad71fb4f56d)
+![redcurlypony](https://github.com/user-attachments/assets/fdb9b5d7-7567-497d-b6be-b7517693ce9d)
+![bunlocspurple](https://github.com/user-attachments/assets/2abe674f-5e3d-43d6-8a46-31d943cff965)
 
-Come to class on the due date with a WORKING COPY of your project. We'll be spending time in class critiquing and reviewing your work so far.
+Link to 11/25 critique presentation: https://docs.google.com/presentation/d/1LpllukBR21gXvDsFZ9iFhl2O3g5xpQ6qLk-FhuubAMI/edit#slide=id.p
 
+Left To Do:
+- Possibly modify curling mechanism so rather than separate states, the straight to wavy to loose curl to tight curl is more of a spectrum that can be used on a sliding scale to create in between looks.
+- Create bust heads in zBrush and export curled hair pieces to then make textured renders with dynamic lighting.
+  
 ## Final submission (due 12/2)
 Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
 
