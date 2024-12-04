@@ -42,4 +42,5 @@ Left To Do:
 - Create bust heads in zBrush and export curled hair pieces to then make textured renders with dynamic lighting.
   
 ## Final submission (due 12/2)
-Final Presentation: https://docs.google.com/presentation/d/1LpllukBR21gXvDsFZ9iFhl2O3g5xpQ6qLk-FhuubAMI/edit#slide=id.g31bcaf3c6d7_0_59
+- Final Presentation: https://docs.google.com/presentation/d/1LpllukBR21gXvDsFZ9iFhl2O3g5xpQ6qLk-FhuubAMI/edit#slide=id.g31bcaf3c6d7_0_59
+- HDA/file can be accessed with finalgenerator.hda.hipnc
